@@ -1,7 +1,7 @@
 {
   "name": "bj-body",
-  "version": "1.0.0",
-  "description": "a powerful and elegent middleware for parsing request bodies.",
+  "version": "1.0.1",
+  "description": "a customable body parser for koa",
   "main": "lib/index.js",
   "scripts": {
     "compile":"./node_modules/.bin/babel -d lib/ src/",
