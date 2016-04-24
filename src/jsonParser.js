@@ -1,8 +1,4 @@
 
-/**
- * Module dependencies.
- */
-import {isPromise} from './islike';
 
 // Allowed whitespace is defined in RFC 7159
 // http://www.rfc-editor.org/rfc/rfc7159.txt

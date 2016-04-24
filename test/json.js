@@ -1,6 +1,6 @@
 
 import request from 'supertest';
-import  parse from '..';
+import  parse from '../src';
 import koa  from 'koa';
 import should from 'should';
 
